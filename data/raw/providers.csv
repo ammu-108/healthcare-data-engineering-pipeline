@@ -1,0 +1,31 @@
+provider_id,provider_name,specialty,region,provider_type
+PRV001,Provider_001,Orthopedics,CENTRAL,Specialty Center
+PRV002,Provider_002,Pediatrics,CENTRAL,Clinic
+PRV003,Provider_003,Dermatology,EAST,Specialty Center
+PRV004,Provider_004,Pediatrics,EAST,Clinic
+PRV005,Provider_005,Orthopedics,EAST,Hospital
+PRV006,Provider_006,Neurology,SOUTH,Hospital
+PRV007,Provider_007,Dermatology,WEST,Clinic
+PRV008,Provider_008,Cardiology,WEST,Hospital
+PRV009,Provider_009,Neurology,WEST,Clinic
+PRV010,Provider_010,Cardiology,EAST,Specialty Center
+PRV011,Provider_011,Dermatology,WEST,Specialty Center
+PRV012,Provider_012,Pediatrics,WEST,Specialty Center
+PRV013,Provider_013,Orthopedics,NORTH,Specialty Center
+PRV014,Provider_014,Neurology,EAST,Specialty Center
+PRV015,Provider_015,Neurology,NORTH,Specialty Center
+PRV016,Provider_016,Dermatology,WEST,Clinic
+PRV017,Provider_017,Orthopedics,SOUTH,Hospital
+PRV018,Provider_018,Cardiology,SOUTH,Clinic
+PRV019,Provider_019,Dermatology,WEST,Specialty Center
+PRV020,Provider_020,Orthopedics,WEST,Clinic
+PRV021,Provider_021,Pediatrics,NORTH,Hospital
+PRV022,Provider_022,Orthopedics,SOUTH,Hospital
+PRV023,Provider_023,Dermatology,WEST,Hospital
+PRV024,Provider_024,Neurology,SOUTH,Hospital
+PRV025,Provider_025,Orthopedics,SOUTH,Hospital
+PRV026,Provider_026,Orthopedics,WEST,Clinic
+PRV027,Provider_027,Neurology,CENTRAL,Hospital
+PRV028,Provider_028,Neurology,SOUTH,Clinic
+PRV029,Provider_029,Orthopedics,WEST,Clinic
+PRV030,Provider_030,Cardiology,CENTRAL,Specialty Center
