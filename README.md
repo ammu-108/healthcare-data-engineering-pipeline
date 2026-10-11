@@ -66,11 +66,6 @@ healthcare-data-engineering-pipeline/
 └── README.md
 ```
 
-### Data Quality & Validation
-
-- Implemented automated checks for duplicate claim IDs, invalid claim amounts, missing identifiers, and invalid member/provider references.
-- Validated transformed data before downstream analytical processing.
-
 ## Dataset
 
 All datasets are synthetically generated for learning and demonstration. No real patient data or employer data is used.
